@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a developer
-- 🌱  I’m currently working on java
+- 🌱 I’m currently working on java
 
 <!--
 **Yc100/Yc100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
