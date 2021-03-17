@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I'm a developer
 - 🌱  I’m currently working on java
 
