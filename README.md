@@ -2,6 +2,8 @@
 
 - 🔭 I'm a developer
 - 🌱 I’m currently working on java
+- 👯 I’m in China
+- blob https://yc100.github.io/
 
 <!--
 **Yc100/Yc100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
