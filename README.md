@@ -73,8 +73,8 @@ I'm really looking forward to making friends with you with the same interests.Le
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![ChatBot](https://img.shields.io/badge/-ChatBot-00599C?style=flat-square&logo=chatbot)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Go](https://img.shields.io/badge/go-%23276DC3.svg?style=flat-square&logo=go&logoColor=white)
-![IOS](https://img.shields.io/badge/IOS-%23217346.svg?style=style=flat-square&logo=ios&logoColor=white)
+![Go](https://img.shields.io/badge/go-0097e6.svg?style=flat-square&logo=go&logoColor=white)
+![IOS](https://img.shields.io/badge/IOS-7f8fa6.svg?style=style=flat-square&logo=ios&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white)
 
