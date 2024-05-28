@@ -85,7 +85,7 @@ I'm really looking forward to making friends with you with the same interests.Le
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Idea](https://img.shields.io/badge/Idea-0078D6?style=flat-square&logo=Idea&logoColor=white)
+![Idea](https://img.shields.io/badge/IntelliJ IDEA?style=flat-square&logo=Idea&logoColor=white)
 ![Navicate](https://img.shields.io/badge/Navicate-green?style=flat-square&logo=Navicate&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
