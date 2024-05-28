@@ -127,7 +127,7 @@ I'm really looking forward to making friends with you with the same interests.Le
 </td>
 <td valign="top">
   
-### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
+### 🤾‍♂️ <a href="https://www.douban.com/" target="_blank">零月流</a>
 
 <!-- START_SECTION:douban -->
 * <a href='https://movie.douban.com/subject/27060077/' target='_blank'>看过绿皮书 Green Book</a> - 2019-03-01
