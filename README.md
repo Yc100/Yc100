@@ -65,3 +65,28 @@ I'm really looking forward to making friends with you with the same interests.Le
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+
+🧠 计划学习:
+
+&emsp;&emsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Go](https://img.shields.io/badge/go-%23276DC3.svg?style=flat-square&logo=go&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white)
+
+🧰 常用的工具:
+
+&emsp;&emsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Idea](https://img.shields.io/badge/Idea-0078D6?style=flat-square&logo=Idea&logoColor=white)
+![Navicate](https://img.shields.io/badge/Navicate-green?style=flat-square&logo=Navicate&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
