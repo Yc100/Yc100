@@ -91,3 +91,25 @@ I'm really looking forward to making friends with you with the same interests.Le
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+
+<div align="center"><img src="https://raw.githubusercontent.com/Yc100/picx-images-hosting/master/20240528/githubBg.9rj8g16mt4.jpg" /></div>
+
+# 🚀 Action
+
+<!-- 连续提交代码天数记录 -->
+<p align="center">
+  <img width="150" src="https://raw.githubusercontent.com/Yc100/picx-images-hosting/master/20240528/left-wing.sys7stobr.jpg" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yc100&theme=dark&hide_border=true" />
+  <img width="150" src="https://raw.githubusercontent.com/Yc100/picx-images-hosting/master/20240528/right-wing.7eglytyd4u.jpg" />
+</p>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=yc100&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yc100&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yc100&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
