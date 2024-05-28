@@ -131,7 +131,7 @@ I'm really looking forward to making friends with you with the same interests.Le
 
 <!-- START_SECTION:douban -->
 * <a href='https://movie.douban.com/subject/27060077/' target='_blank'>看过绿皮书 Green Book</a> - 2019-03-01
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>看过这个杀手不太冷 Léon</a> - 2014-09-01
+* <a href='https://movie.douban.com/subject/1295644/' target='_blank'>看过这个杀手不太冷 Léon</a> - 2014-09-01
 <!-- END_SECTION:douban -->
 
 </table>
