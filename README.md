@@ -18,6 +18,7 @@
   <a href="https://y.qq.com/n/ryqq/singer/000S9CaF1C8NAN"><img src="https://img.shields.io/badge/TencentMusic-腾讯音乐人-green"></a>&emsp;
   <a href="https://v.douyin.com/UUCKtTL/"><img src="https://img.shields.io/badge/douyin-抖音音乐人-ff69b4"></a>&emsp;
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAw0hg0hVd_InwSpqfxd9naQwtBPiCsy679xYHUmVcHbMe6QT-IjvKAxB2inmRPMbP/?"><img src="https://img.shields.io/badge/toutiao-头条-blue"></a>&emsp;
+</div>
 <!-- 访客数统计徽标 -->
   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div> -->
 
