@@ -113,3 +113,25 @@ I'm really looking forward to making friends with you with the same interests.Le
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yc100&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yc100&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
+
+
+
+
+<!-- 最近博客和豆瓣动态 -->
+<table align="center" >
+<tr>
+<td valign="top">
+
+### 🤹‍♀️ <a href="https://yc100.github.io/" target="_blank">MemoryDairy</a>
+
+</td>
+<td valign="top">
+  
+### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
+
+<!-- START_SECTION:douban -->
+* <a href='https://movie.douban.com/subject/27060077/' target='_blank'>看过绿皮书 Green Book</a> - 2019-03-01
+* <a href='https://book.douban.com/subject/2567698/' target='_blank'>看过这个杀手不太冷 Léon</a> - 2014-09-01
+<!-- END_SECTION:douban -->
+
+</table>
