@@ -54,7 +54,7 @@ I'm really looking forward to making friends with you with the same interests.Le
 💪 正在使用:
 
 &emsp;&emsp;
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-blue?style=flat-square&logo=coffeescript)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-27ae60?style=flat-square&logo=Spring)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-3f745c?style=flat-square&logo=springboot)
