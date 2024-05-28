@@ -14,7 +14,7 @@
   <a href="https://yc100.github.io/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://twitter.com/yc37507727"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://music.163.com/#/artist?id=50737246"><img src="https://img.shields.io/badge/music163-网易音乐人-c32136"></a>&emsp;
-  <a href="https://y.qq.com/n/ryqq/singer/000S9CaF1C8NAN"><img src="https://img.shields.io/badge/TencentMusic-腾讯音乐人"></a>&emsp;
+  <a href="https://y.qq.com/n/ryqq/singer/000S9CaF1C8NAN"><img src="https://img.shields.io/badge/TencentMusic-腾讯音乐人-green"></a>&emsp;
   <a href="https://v.douyin.com/UUCKtTL/"><img src="https://img.shields.io/badge/douyin-抖音音乐人-ff69b4"></a>&emsp;
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAw0hg0hVd_InwSpqfxd9naQwtBPiCsy679xYHUmVcHbMe6QT-IjvKAxB2inmRPMbP/?"><img src="https://img.shields.io/badge/toutiao-头条-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
