@@ -1,8 +1,8 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.anheyu.com/">
-    <!--<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=世间所有幸福好运，都源于你的努力和善良。 By Yc.;console.log(%22Hello%EF%BC%8Cworld%22)">-->
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=世间所有幸福和好运，都源于你的努力和善良.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <!--<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">-->
   </a>
 </h1>
 
@@ -28,14 +28,23 @@
 Welcome to my github page 😝
 
 ✋~I am Yc and I am a developer.🔭
+
 I’m currently working on java and I'm in Hohhot, Inner Mongolia, China.👯
+
 I love to play basketball and I love lebron James.
+
 I like to exercise and keep fit And I'm also a musician.😄
+
 I'm really looking forward to making friends with you with the same interests.Let's make progress together!
 
 😝欢迎来到我的github主页
+
 ✋~我是Yc，是一名开发者。
+
 我在中国的内蒙古呼和浩特，我目前正在从事java方面的研究和工作。
+
 我喜欢打篮球，勒布朗詹姆斯是我最喜欢的运动员。
+
 我也喜欢运动和健身💪并且我还是一名音乐人。 ✋
+
 我很期待和相同兴趣的你成为朋友，让我们一起进步。💪
